@@ -12,8 +12,8 @@ Hi there! 👋 I'm Igor Malikov<br>I'm a Middle Frontend Developer with 5+ years
 Let's connect and build something awesome together! ✨
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=Mea6ea6&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true) <br>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mea6ea6&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=algolia)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Mea6ea6&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true) <br>
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mea6ea6&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=dark)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-mea6ea6-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mea6ea6) 
