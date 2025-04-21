@@ -1,7 +1,7 @@
 ## 💫 About Me:
 Hi there! 👋 I'm Igor Malikov<br>I'm a Middle Frontend Developer with 5+ years of experience in building modern web applications. Passionate about clean code, user-friendly interfaces, and innovative solutions. 🚀<br><br>💡 Co-founder of Surge, a growing web development company where my friends and I bring ideas to life. Besides that, I take freelance projects, helping businesses create stunning and functional websites.
 
-## 🛠 Main Tech Stack:
+## 🛠 Tech Stack:
 - Frontend: <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 - Backend & Databases: <br>
